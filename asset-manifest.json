@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HariharanVijay/Weather-App.git/static/css/main.06974b49.css",
+    "main.js": "/HariharanVijay/Weather-App.git/static/js/main.ccf67de7.js",
+    "static/js/787.c9eb4f8d.chunk.js": "/HariharanVijay/Weather-App.git/static/js/787.c9eb4f8d.chunk.js",
+    "static/media/cloud.png": "/HariharanVijay/Weather-App.git/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/HariharanVijay/Weather-App.git/index.html",
+    "main.06974b49.css.map": "/HariharanVijay/Weather-App.git/static/css/main.06974b49.css.map",
+    "main.ccf67de7.js.map": "/HariharanVijay/Weather-App.git/static/js/main.ccf67de7.js.map",
+    "787.c9eb4f8d.chunk.js.map": "/HariharanVijay/Weather-App.git/static/js/787.c9eb4f8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06974b49.css",
+    "static/js/main.ccf67de7.js"
+  ]
+}
